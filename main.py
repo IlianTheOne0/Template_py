@@ -1,6 +1,7 @@
 def main():
     try:
-        pass
+        a = 'Hello world!'
+        print(a)
     except Exception as e:
         print(f'Error: {e}')
 
